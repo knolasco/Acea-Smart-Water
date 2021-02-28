@@ -2,6 +2,9 @@ This project is part of a Kaggle Competition hosted by Acea Group. The link to t
 
 # Description of Files
 
+## Project File
+The file that contains the analysis is called "Random Forests and Early Stopping to Save Water!". The link to that notebook can be found here: https://github.com/knolasco/Acea-Smart-Water/blob/main/Random%20Forests%20and%20Early%20Stopping%20to%20Save%20Water!.ipynb
+
 ## Kaggle Notebook
 
 The notebook that was submitted for the competition can be found here: https://www.kaggle.com/kevinnolasco/random-forests-and-early-stopping-to-save-water
