@@ -8,6 +8,7 @@ The file that contains the analysis is called "Random Forests and Early Stopping
 ## Kaggle Notebook
 
 The notebook that was submitted for the competition can be found here: https://www.kaggle.com/kevinnolasco/random-forests-and-early-stopping-to-save-water
+(Please use the link above for the project file. The Kaggle Notebook is now private for the purposes of the competition but the analysis can still be found in the Jupyter Notebook file.)
 
 ## Dataset Description
 
